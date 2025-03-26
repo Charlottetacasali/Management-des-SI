@@ -60,7 +60,7 @@ Exemple :
 
 - **Exemple** :
   - Un projet coûte **5 000€** et génère **7 500€**.
-  - ROI = \( \frac{7500 - 5000}{5000} = 50\% \).
+  - ROI = (7500-5000)/7500 = 50%.
   - Plus le ROI est élevé, plus l’investissement est **rentable**.
 
 ### **4. Analyse des Avantages**
