@@ -40,7 +40,9 @@ Exemple :
 ### **1. Pay Back Period (Délai de récupération)**
 - **Durée** nécessaire pour que l’investissement initial soit compensé par les gains.
 - Formule :
-  \[ \text{Pay Back Period} = \frac{\text{Investissement Initial}}{\text{Encaissement Annuel Net}} \]
+  
+  ![image](https://github.com/user-attachments/assets/5dd83481-961d-4ef0-b119-883103cfc218)
+  
 - **Exemple** : Un projet coûte 100 000€ et génère 33 000€ de gains/an. Le Pay Back Period = **3 ans**.
 - **Limites** : Ne prend pas en compte la **valeur temporelle de l’argent**.
 
@@ -53,7 +55,9 @@ Exemple :
 ### **3. Retour sur Investissement (ROI)**
 - Mesure la rentabilité par rapport au coût initial.
 - Formule :
-  \[ \text{ROI} = \frac{\text{Gain de l’Investissement} - \text{Coût de l’Investissement}}{\text{Coût de l’Investissement}} \times 100 \]
+  
+  ![image](https://github.com/user-attachments/assets/e8f3e2af-5e27-4dfd-860c-d2bb5f1d5bf7)
+
 - **Exemple** :
   - Un projet coûte **5 000€** et génère **7 500€**.
   - ROI = \( \frac{7500 - 5000}{5000} = 50\% \).
